@@ -10,13 +10,13 @@ the link of VScode:
 ```
 https://code.visualstudio.com/Download
 ```
- ###pycharm
+ ### pycharm
  pycharm is like VScode but it is just for python (I prefer VScode more)
  link of pycharm:
  ```
  https://www.jetbrains.com/pycharm/download/
  ```
- ###pyscripter
+ ### pyscripter
  this is for the people that have Windows 7
  link of pyscripter:
  ```
