@@ -1,4 +1,4 @@
-# python-interpreter
+# python-interpreter and compilers
 
 in this text we are going to intruduce some interpreters and compiler for python
 
